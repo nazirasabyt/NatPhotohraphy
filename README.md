@@ -7,5 +7,4 @@ To start run
 1. npm install
 2. npm start
 
-Live demo
-https://natphotography.netlify.app/
+
